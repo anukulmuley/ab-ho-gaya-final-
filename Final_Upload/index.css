@@ -1,0 +1,45 @@
+#profile{
+	padding-left: 1100px;
+}
+.col{
+	padding-top:10px;
+	margin-top:20px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+#jumbotron-name{
+	background-color: white;
+
+}
+.offer{
+	color:white;
+	background-color: hsl(0, 73%, 50%);
+}
+.card-body h5{
+	color:green;
+}
+
+.card{
+	margin-left:10px;
+	margin-right:10px;
+	padding:20px 20px;
+}
+.card-body{
+	padding-left:3px;
+}
+#btn-add{
+	margin-top: 9px;
+	padding:9px;
+}
+#cheading{
+	margin-bottom:28px;
+}
+#jumbotron-name{
+	padding:20px;
+}
+#cart{
+	margin-left: 90px;
+}
+.mainjumbo{
+	background-color: white;
+}

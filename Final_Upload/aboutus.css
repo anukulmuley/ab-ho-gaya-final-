@@ -1,0 +1,30 @@
+/* body{
+         background-image:url(brett-jordan-zMJYmwca-_k-unsplash.jpg)  ; 
+         background-size: cover; 
+         background-position: center; 
+         font-family:Roboto; 
+        color: white;
+
+	background-size: cover;
+	background-position: center;
+	font-family:Lato;
+	color: white;
+} */
+
+.bg-cover {
+        background-attachment: static;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+html{
+	height:180%;
+}
+
+.about{
+ background-color: rgba(255,255,255,0.5);
+color:black;
+}
+li{
+        text-align: initial;
+}
